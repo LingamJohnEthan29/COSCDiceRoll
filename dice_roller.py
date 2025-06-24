@@ -9,5 +9,5 @@ def dice_roll():
         t -=1
         time.sleep(1)
     print("Number gotten, ",roll)
-
+input("Press enter to roll")
 dice_roll()
